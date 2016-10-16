@@ -1,0 +1,6 @@
+D:\rahman\ResXWriter\ResXWriter\bin\Debug\ResXWriter.exe.config
+D:\rahman\ResXWriter\ResXWriter\bin\Debug\ResXWriter.exe
+D:\rahman\ResXWriter\ResXWriter\bin\Debug\ResXWriter.pdb
+D:\rahman\ResXWriter\ResXWriter\obj\Debug\ResXWriter.csprojResolveAssemblyReference.cache
+D:\rahman\ResXWriter\ResXWriter\obj\Debug\ResXWriter.exe
+D:\rahman\ResXWriter\ResXWriter\obj\Debug\ResXWriter.pdb
